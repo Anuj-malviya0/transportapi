@@ -1,16 +1,18 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import csv
 import os
 import logging
 from logging.handlers import RotatingFileHandler
 
 app = Flask(__name__)
+CORS(app)  # This will enable CORS for all routes
 
 # Configure logging
 if not app.debug:
     if not os.path.exists('logs'):
         os.mkdir('logs')
-    file_handler = RotatingFileHandler('tarnsportation.csv', maxBytes=10240, backupCount=10)
+    file_handler = RotatingFileHandler('logs/app.log', maxBytes=10240, backupCount=10)
     file_handler.setFormatter(logging.Formatter(
         '%(asctime)s %(levelname)s: %(message)s [in %(pathname)s:%(lineno)d]'))
     file_handler.setLevel(logging.INFO)
@@ -20,7 +22,7 @@ if not app.debug:
 
 # Get the directory of the current file
 current_dir = os.path.dirname(os.path.abspath(__file__))
-csv_file = os.path.join(current_dir, 'transportation.csv')
+csv_file = os.path.join(current_dir, 'water.csv')
 
 def read_csv():
     data = []
