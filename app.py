@@ -20,7 +20,7 @@ if not app.debug:
 
 # Get the directory of the current file
 current_dir = os.path.dirname(os.path.abspath(__file__))
-csv_file = os.path.join(current_dir, 'healthcare.csv')
+csv_file = os.path.join(current_dir, 'transportation.csv')
 
 def read_csv():
     data = []
