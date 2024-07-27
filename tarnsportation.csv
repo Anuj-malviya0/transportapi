@@ -1,0 +1,101 @@
+Category,Item ID,Name,Quantity,Manufacturing Date,Expiry Date/Last Maintenance,Location,Status,Notes
+Fire Safety Trucks,001,Fire Truck A,5,2020-03-15,N/A,Fire Station 1,In Service, Last serviced: 2024-01-10
+Fire Safety Trucks,002,Fire Truck B,3,2021-06-20,N/A,Fire Station 2,In Service, Last serviced: 2024-02-15
+Fire Safety Trucks,003,Fire Truck C,4,2022-08-25,N/A,Fire Station 3,In Service, Last serviced: 2024-03-20
+Fire Safety Equipment,004,Fire Hose,50,2022-01-10,2025-01-10,Fire Station 1,In Stock, -
+Fire Safety Equipment,005,Fire Extinguisher,100,2023-05-05,2025-05-05,Fire Station 2,In Stock, -
+Fire Safety Equipment,006,Fire Helmet,150,2023-07-15,2026-07-15,Fire Station 3,In Stock, -
+Transportation Vehicles,007,Ambulance A,8,2021-02-25,N/A,Emergency Response,In Service, Last serviced: 2024-01-25
+Transportation Vehicles,008,Ambulance B,7,2022-04-10,N/A,Emergency Response,In Service, Last serviced: 2024-03-15
+Transportation Vehicles,009,Van A,12,2020-11-05,N/A,City Transport,In Service, Last serviced: 2024-02-05
+Transportation Vehicles,010,Van B,10,2021-09-12,N/A,City Transport,In Service, Last serviced: 2024-04-01
+Transportation Vehicles,011,Bus A,6,2019-12-20,N/A,Public Transit,In Service, Last serviced: 2024-05-20
+Transportation Vehicles,012,Bus B,5,2020-10-15,N/A,Public Transit,In Service, Last serviced: 2024-06-10
+Fire Safety Trucks,013,Fire Truck D,2,2023-01-15,N/A,Fire Station 1,In Service, Last serviced: 2024-04-05
+Fire Safety Trucks,014,Fire Truck E,3,2023-03-10,N/A,Fire Station 2,In Service, Last serviced: 2024-05-10
+Fire Safety Equipment,015,Fire Hose,60,2022-02-01,2025-02-01,Fire Station 2,In Stock, -
+Fire Safety Equipment,016,Fire Extinguisher,120,2023-06-10,2025-06-10,Fire Station 3,In Stock, -
+Fire Safety Equipment,017,Fire Helmet,160,2023-08-20,2026-08-20,Fire Station 1,In Stock, -
+Transportation Vehicles,018,Ambulance C,6,2023-05-15,N/A,Emergency Response,In Service, Last serviced: 2024-06-20
+Transportation Vehicles,019,Van C,14,2022-03-10,N/A,City Transport,In Service, Last serviced: 2024-07-01
+Transportation Vehicles,020,Bus C,4,2021-01-15,N/A,Public Transit,In Service, Last serviced: 2024-08-15
+Fire Safety Trucks,021,Fire Truck F,3,2023-04-20,N/A,Fire Station 3,In Service, Last serviced: 2024-05-25
+Fire Safety Trucks,022,Fire Truck G,4,2023-06-05,N/A,Fire Station 1,In Service, Last serviced: 2024-07-30
+Fire Safety Equipment,023,Fire Hose,70,2022-03-15,2025-03-15,Fire Station 3,In Stock, -
+Fire Safety Equipment,024,Fire Extinguisher,130,2023-07-05,2025-07-05,Fire Station 1,In Stock, -
+Fire Safety Equipment,025,Fire Helmet,170,2023-09-15,2026-09-15,Fire Station 2,In Stock, -
+Transportation Vehicles,026,Ambulance D,9,2023-06-10,N/A,Emergency Response,In Service, Last serviced: 2024-08-20
+Transportation Vehicles,027,Van D,16,2023-01-20,N/A,City Transport,In Service, Last serviced: 2024-09-05
+Transportation Vehicles,028,Bus D,7,2022-11-10,N/A,Public Transit,In Service, Last serviced: 2024-10-01
+Fire Safety Trucks,029,Fire Truck H,5,2023-07-15,N/A,Fire Station 2,In Service, Last serviced: 2024-09-15
+Fire Safety Trucks,030,Fire Truck I,6,2023-08-20,N/A,Fire Station 3,In Service, Last serviced: 2024-10-10
+Fire Safety Equipment,031,Fire Hose,80,2022-04-10,2025-04-10,Fire Station 1,In Stock, -
+Fire Safety Equipment,032,Fire Extinguisher,140,2023-08-01,2025-08-01,Fire Station 2,In Stock, -
+Fire Safety Equipment,033,Fire Helmet,180,2023-10-05,2026-10-05,Fire Station 3,In Stock, -
+Transportation Vehicles,034,Ambulance E,7,2023-07-25,N/A,Emergency Response,In Service, Last serviced: 2024-09-30
+Transportation Vehicles,035,Van E,18,2023-03-05,N/A,City Transport,In Service, Last serviced: 2024-10-20
+Transportation Vehicles,036,Bus E,5,2021-12-25,N/A,Public Transit,In Service, Last serviced: 2024-11-10
+Fire Safety Trucks,037,Fire Truck J,4,2023-09-01,N/A,Fire Station 1,In Service, Last serviced: 2024-11-15
+Fire Safety Trucks,038,Fire Truck K,5,2023-10-15,N/A,Fire Station 2,In Service, Last serviced: 2024-12-01
+Fire Safety Equipment,039,Fire Hose,90,2022-05-20,2025-05-20,Fire Station 2,In Stock, -
+Fire Safety Equipment,040,Fire Extinguisher,150,2023-09-10,2025-09-10,Fire Station 3,In Stock, -
+Fire Safety Equipment,041,Fire Helmet,190,2023-11-01,2026-11-01,Fire Station 1,In Stock, -
+Transportation Vehicles,042,Ambulance F,8,2023-08-15,N/A,Emergency Response,In Service, Last serviced: 2024-12-10
+Transportation Vehicles,043,Van F,20,2023-04-10,N/A,City Transport,In Service, Last serviced: 2024-12-20
+Transportation Vehicles,044,Bus F,6,2022-12-01,N/A,Public Transit,In Service, Last serviced: 2024-12-25
+Fire Safety Trucks,045,Fire Truck L,4,2023-11-15,N/A,Fire Station 3,In Service, Last serviced: 2024-12-30
+Fire Safety Trucks,046,Fire Truck M,6,2024-01-10,N/A,Fire Station 1,In Service, Last serviced: 2025-01-10
+Fire Safety Equipment,047,Fire Hose,100,2022-06-01,2025-06-01,Fire Station 3,In Stock, -
+Fire Safety Equipment,048,Fire Extinguisher,160,2023-10-10,2025-10-10,Fire Station 1,In Stock, -
+Fire Safety Equipment,049,Fire Helmet,200,2023-12-01,2026-12-01,Fire Station 2,In Stock, -
+Transportation Vehicles,050,Ambulance G,9,2023-09-10,N/A,Emergency Response,In Service, Last serviced: 2024-12-30
+Transportation Vehicles,051,Van G,22,2023-02-15,N/A,City Transport,In Service, Last serviced: 2024-12-25
+Transportation Vehicles,052,Bus G,7,2022-10-15,N/A,Public Transit,In Service, Last serviced: 2024-12-20
+Fire Safety Trucks,053,Fire Truck N,5,2023-12-05,N/A,Fire Station 2,In Service, Last serviced: 2025-01-15
+Fire Safety Trucks,054,Fire Truck O,6,2024-02-01,N/A,Fire Station 3,In Service, Last serviced: 2025-02-05
+Fire Safety Equipment,055,Fire Hose,110,2022-07-10,2025-07-10,Fire Station 1,In Stock, -
+Fire Safety Equipment,056,Fire Extinguisher,170,2023-11-01,2025-11-01,Fire Station 2,In Stock, -
+Fire Safety Equipment,057,Fire Helmet,210,2024-01-10,2027-01-10,Fire Station 3,In Stock, -
+Transportation Vehicles,058,Ambulance H,10,2023-10-20,N/A,Emergency Response,In Service, Last serviced: 2025-01-10
+Transportation Vehicles,059,Van H,24,2023-05-25,N/A,City Transport,In Service, Last serviced: 2025-02-05
+Transportation Vehicles,060,Bus H,8,2022-11-20,N/A,Public Transit,In Service, Last serviced: 2025-02-10
+Fire Safety Trucks,061,Fire Truck P,3,2023-12-20,N/A,Fire Station 3,In Service, Last serviced: 2025-03-01
+Fire Safety Trucks,062,Fire Truck Q,4,2024-03-01,N/A,Fire Station 1,In Service, Last serviced: 2025-03-15
+Fire Safety Equipment,063,Fire Hose,120,2023-01-15,2026-01-15,Fire Station 2,In Stock, -
+Fire Safety Equipment,064,Fire Extinguisher,180,2024-02-10,2026-02-10,Fire Station 3,In Stock, -
+Fire Safety Equipment,065,Fire Helmet,220,2024-04-05,2027-04-05,Fire Station 1,In Stock, -
+Transportation Vehicles,066,Ambulance I,11,2024-01-20,N/A,Emergency Response,In Service, Last serviced: 2025-03-20
+Transportation Vehicles,067,Van I,26,2023-06-05,N/A,City Transport,In Service, Last serviced: 2025-04-01
+Transportation Vehicles,068,Bus I,9,2022-12-20,N/A,Public Transit,In Service, Last serviced: 2025-04-15
+Fire Safety Trucks,069,Fire Truck R,4,2024-05-10,N/A,Fire Station 2,In Service, Last serviced: 2025-05-15
+Fire Safety Trucks,070,Fire Truck S,5,2024-06-15,N/A,Fire Station 3,In Service, Last serviced: 2025-06-30
+Fire Safety Equipment,071,Fire Hose,130,2023-03-05,2026-03-05,Fire Station 1,In Stock, -
+Fire Safety Equipment,072,Fire Extinguisher,190,2024-04-15,2026-04-15,Fire Station 2,In Stock, -
+Fire Safety Equipment,073,Fire Helmet,230,2024-05-20,2027-05-20,Fire Station 3,In Stock, -
+Transportation Vehicles,074,Ambulance J,12,2024-04-25,N/A,Emergency Response,In Service, Last serviced: 2025-05-20
+Transportation Vehicles,075,Van J,28,2023-07-20,N/A,City Transport,In Service, Last serviced: 2025-06-10
+Transportation Vehicles,076,Bus J,10,2022-11-30,N/A,Public Transit,In Service, Last serviced: 2025-06-25
+Fire Safety Trucks,077,Fire Truck T,6,2024-07-15,N/A,Fire Station 1,In Service, Last serviced: 2025-07-15
+Fire Safety Trucks,078,Fire Truck U,7,2024-08-20,N/A,Fire Station 2,In Service, Last serviced: 2025-08-10
+Fire Safety Equipment,079,Fire Hose,140,2023-04-01,2026-04-01,Fire Station 2,In Stock, -
+Fire Safety Equipment,080,Fire Extinguisher,200,2024-05-10,2026-05-10,Fire Station 3,In Stock, -
+Fire Safety Equipment,081,Fire Helmet,240,2024-06-15,2027-06-15,Fire Station 1,In Stock, -
+Transportation Vehicles,082,Ambulance K,13,2024-05-10,N/A,Emergency Response,In Service, Last serviced: 2025-07-10
+Transportation Vehicles,083,Van K,30,2023-09-05,N/A,City Transport,In Service, Last serviced: 2025-07-30
+Transportation Vehicles,084,Bus K,11,2023-01-10,N/A,Public Transit,In Service, Last serviced: 2025-08-15
+Fire Safety Trucks,085,Fire Truck V,5,2024-09-01,N/A,Fire Station 3,In Service, Last serviced: 2025-09-30
+Fire Safety Trucks,086,Fire Truck W,6,2024-10-15,N/A,Fire Station 1,In Service, Last serviced: 2025-10-15
+Fire Safety Equipment,087,Fire Hose,150,2023-05-20,2026-05-20,Fire Station 3,In Stock, -
+Fire Safety Equipment,088,Fire Extinguisher,210,2024-07-10,2026-07-10,Fire Station 1,In Stock, -
+Fire Safety Equipment,089,Fire Helmet,250,2024-08-20,2027-08-20,Fire Station 2,In Stock, -
+Transportation Vehicles,090,Ambulance L,14,2024-07-10,N/A,Emergency Response,In Service, Last serviced: 2025-08-20
+Transportation Vehicles,091,Van L,32,2023-11-01,N/A,City Transport,In Service, Last serviced: 2025-09-15
+Transportation Vehicles,092,Bus L,12,2023-02-15,N/A,Public Transit,In Service, Last serviced: 2025-09-30
+Fire Safety Trucks,093,Fire Truck X,7,2024-11-01,N/A,Fire Station 2,In Service, Last serviced: 2025-11-10
+Fire Safety Trucks,094,Fire Truck Y,8,2024-12-10,N/A,Fire Station 3,In Service, Last serviced: 2025-12-05
+Fire Safety Equipment,095,Fire Hose,160,2023-06-15,2026-06-15,Fire Station 1,In Stock, -
+Fire Safety Equipment,096,Fire Extinguisher,220,2024-09-01,2026-09-01,Fire Station 2,In Stock, -
+Fire Safety Equipment,097,Fire Helmet,260,2024-10-20,2027-10-20,Fire Station 3,In Stock, -
+Transportation Vehicles,098,Ambulance M,15,2024-08-25,N/A,Emergency Response,In Service, Last serviced: 2025-10-15
+Transportation Vehicles,099,Van M,34,2023-12-05,N/A,City Transport,In Service, Last serviced: 2025-10-20
+Transportation Vehicles,100,Bus M,13,2024-01-10,N/A,Public Transit,In Service, Last serviced: 2025-11-10
